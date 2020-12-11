@@ -1,0 +1,12 @@
+
+
+
+#ignore intellij
+.idea
+
+#ignore gradle
+.gradle
+**/build/
+!src/**/build/
+
+!gradle-wrapper.jar
