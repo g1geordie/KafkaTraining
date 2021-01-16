@@ -1,3 +1,4 @@
 rootProject.name = 'KafkaTraining'
 include 'socket-example'
+include 'Jaas-example'
 
